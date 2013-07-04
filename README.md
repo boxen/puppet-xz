@@ -2,7 +2,7 @@
 
 Installs xz.
 
-[![Build Status](https://travis-ci.org/tommetge/puppet-xz.png?branch=master)](https://travis-ci.org/tommetge/puppet-xz)
+[![Build Status](https://travis-ci.org/boxen/puppet-xz.png?branch=master)](https://travis-ci.org/boxen/puppet-xz)
 
 ## Usage
 
