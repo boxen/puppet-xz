@@ -1,15 +1,7 @@
 # XZ Puppet Module for Boxen
 
-Installs xz.
+Deprecated in favour of [brewcask][1] and [Boxen's in built support for
+homebrew/brewcask][2].
 
-[![Build Status](https://travis-ci.org/boxen/puppet-xz.png?branch=master)](https://travis-ci.org/boxen/puppet-xz)
-
-## Usage
-
-```puppet
-include xz
-```
-
-## Required Puppet Modules
-
-* `boxen`
+[1]: https://caskroom.github.io/
+[2]: https://git.io/v6NlB
